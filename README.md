@@ -31,8 +31,8 @@ A lightweight, fully configurable asynchronous FTP server built with Python.
 1. **Clone or download the repository:**
 
    ```bash
-   git clone https://github.com/your-username/ftp-server.git
-   cd ftp-server
+   git clone https://github.com/Miaoumap24/Simple-FTP-Server.git
+   cd Simple-FTP-Server
    ```
 
 2. **Create a virtual environment (optional but recommended):**
